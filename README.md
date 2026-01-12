@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I’m Rudraksh Rakesh Zodage<br><br>🚀 I'm currently working on:<br>Comment Detection Extension – an AI-powered browser extension to analyze and filter online comments<br>SmartVeggies – a smart agriculture project using AI for vegetable detection, quality analysis, and insights<br>Other AI/ML and Python-based projects<br><br>🤝 I’m looking to collaborate on:<br>AI, Machine Learning, and Computer Vision projects<br>Open-source tools with real-world impact<br><br>🆘 I'm looking for help with:<br>Deploying ML models at scale<br>Frontend & browser extension optimization<br><br>📚 I'm currently learning:<br>Advanced Deep Learning and model optimization<br>Full-stack integration for AI applications<br><br>💬 Ask me about:<br>Python, ML projects, browser extensions, or AI ideas<br><br>⚡ Fun fact:<br>I love turning real-life problems into AI solutions 🚀
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/123rudraksh123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudraksh-zodage-) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LogicPulsee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudrakshrakeshzodage@gmail.com) 
 
