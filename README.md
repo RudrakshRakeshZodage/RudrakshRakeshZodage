@@ -64,7 +64,3 @@ I love turning real-life problems into AI solutions 🚀
 
 ---
 
-# 👀 Profile Views:
-![](https://visitcount.itsvg.in/api?id=RudrakshRakeshZodage&icon=5&color=6)
-
----
