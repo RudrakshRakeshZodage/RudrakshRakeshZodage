@@ -64,11 +64,6 @@ I love turning real-life problems into AI solutions 🚀
 
 ---
 
-# 🏆 Achievements:
-![](https://github-profile-trophy.vercel.app/?username=RudrakshRakeshZodage&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 # 👀 Profile Views:
 ![](https://visitcount.itsvg.in/api?id=RudrakshRakeshZodage&icon=5&color=6)
 
