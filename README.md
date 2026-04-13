@@ -1,18 +1,75 @@
 # 💫 About Me:
-👋 Hi there! I’m Rudraksh Rakesh Zodage<br><br>🚀 I'm currently working on:<br>Comment Detection Extension – an AI-powered browser extension to analyze and filter online comments<br>SmartVeggies – a smart agriculture project using AI for vegetable detection, quality analysis, and insights<br>Other AI/ML and Python-based projects<br><br>🤝 I’m looking to collaborate on:<br>AI, Machine Learning, and Computer Vision projects<br>Open-source tools with real-world impact<br><br>🆘 I'm looking for help with:<br>Deploying ML models at scale<br>Frontend & browser extension optimization<br><br>📚 I'm currently learning:<br>Advanced Deep Learning and model optimization<br>Full-stack integration for AI applications<br><br>💬 Ask me about:<br>Python, ML projects, browser extensions, or AI ideas<br><br>⚡ Fun fact:<br>I love turning real-life problems into AI solutions 🚀
+👋 Hi there! I’m **Rudraksh Rakesh Zodage**  
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/123rudraksh123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudraksh-zodage-) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LogicPulsee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudrakshrakeshzodage@gmail.com) 
+🚀 **Currently Working On:**
+- 🧠 Comment Detection Extension – AI-powered browser extension to analyze & filter comments  
+- 🌱 SmartVeggies – AI-based vegetable detection, quality analysis & insights  
+- 🤖 Multiple AI/ML + Python projects  
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RudrakshRakeshZodage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RudrakshRakeshZodage&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RudrakshRakeshZodage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🤝 **Looking to Collaborate On:**
+- AI / Machine Learning / Computer Vision  
+- Open-source projects with real-world impact  
+
+🆘 **Need Help With:**
+- Scaling & deploying ML models  
+- Frontend optimization & browser extensions  
+
+📚 **Currently Learning:**
+- Advanced Deep Learning  
+- AI system design + full-stack integration  
+
+💬 **Ask Me About:**
+- Python 🐍  
+- ML Projects 🤖  
+- Browser Extensions 🌐  
+- AI Ideas 💡  
+
+⚡ **Fun Fact:**  
+I love turning real-life problems into AI solutions 🚀  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=RudrakshRakeshZodage&icon=1&color=1)](https://visitcount.itsvg.in)
+# 🌐 Connect With Me:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/123rudraksh123) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudraksh-zodage-) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LogicPulsee) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudrakshrakeshzodage@gmail.com)  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in  -->
+---
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![CUDA](https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nVIDIA&logoColor=green)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RudrakshRakeshZodage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
+
+![](https://streak-stats.demolab.com?user=RudrakshRakeshZodage&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RudrakshRakeshZodage&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+# 🧠 Contribution Graph:
+![Snake animation](https://github.com/RudrakshRakeshZodage/RudrakshRakeshZodage/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🏆 Achievements:
+![](https://github-profile-trophy.vercel.app/?username=RudrakshRakeshZodage&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+# 👀 Profile Views:
+![](https://visitcount.itsvg.in/api?id=RudrakshRakeshZodage&icon=5&color=6)
+
+---
