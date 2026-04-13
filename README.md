@@ -59,8 +59,3 @@ I love turning real-life problems into AI solutions 🚀
 
 ---
 
-# 🧠 Contribution Graph:
-![Snake animation](https://github.com/RudrakshRakeshZodage/RudrakshRakeshZodage/blob/output/github-contribution-grid-snake.svg)
-
----
-
