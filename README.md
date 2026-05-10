@@ -22,7 +22,7 @@
 - Python 🐍  
 - ML Projects 🤖  
 - Browser Extensions 🌐  
-- AI Ideas 💡  
+- AI Idea 💡  
 
 ⚡ **Fun Fact:**  
 I love turning real-life problems into AI solutions 🚀  
