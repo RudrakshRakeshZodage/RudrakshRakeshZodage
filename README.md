@@ -29,6 +29,7 @@ I love turning real-life problems into AI solutions 🚀
 
 ---
 
+
 # 🌐 Connect With Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/123rudraksh123) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudraksh-zodage-) 
